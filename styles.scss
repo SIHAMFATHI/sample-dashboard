@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f9f4f4;
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
